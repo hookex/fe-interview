@@ -17,3 +17,6 @@ https://gist.github.com/hookex/25eaf1338110cdcac24ea27f02d42de6
 
 ###### 常用算法
 https://gist.github.com/hookex/9d8796af78311c144f8fce0ff3389151
+
+
+![](https://github.com/hookex/fe-interview/blob/master/question.png?raw=true)  
